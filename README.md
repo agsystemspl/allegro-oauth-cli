@@ -1,0 +1,1 @@
+# allegro-rest-api-cli
